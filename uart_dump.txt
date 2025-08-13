@@ -1,0 +1,350 @@
+▒ ▒+++MMP RomCode ver 8050.0.2 2009/12/11
+pwrc_cfg=A0000006
+vic1_rawSts=00000020
+gpio 0=00200080
+iotraps=00000000
+version= 5A1202A5
+boot dev= 00000000
+dev sel :0
+Read Id : EC-D7-94-7A-54-43-EC-D7-94-7A
+NAND_TYPE: SAMSUNG
+PageNoPerBlk               :128
+PyldLen                    :2048
+TotalBlkNo                 :4096
+ecc_mode                      :0
+Start to read DRAM_Init code from flash...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 274)
+start to extract DRAM_Init code...
+call DRAM_Init()...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 258)
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+retrieve cfg
++ScanRam ver v4.0.0.0
+FAIL at type=4, detail scan
+WARN! no usable cfg
+DRAM Type Scan Start
+
+init DRAM done
+Enter the bypass mode!
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 256)
+RdImgGeneral: 2nd ReadFlashPage() failed
+Error in reading flash!
+NAND: invoking BOOT code failed
+Enter ISP mode
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+CMD_NAND_WRITE_MBR:0x0
+Start to read DRAM_Init code from flash...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 274)
+start to extract DRAM_Init code...
+call DRAM_Init()...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 258)
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+no cfg avail
++ScanRam ver v3.0.0.0
+FAIL at type=0, detail scan
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+DRAM Type Scan Start
+
+00000040
+
+init DRAM done
++++MMP RomCode ver 8050.0.2 2009/12/11
+pwrc_cfg=A0000006
+vic1_rawSts=00000000
+gpio 0=00200080
+iotraps=00000000
+version= 5A1202A5
+boot dev= 00000000
+dev sel :0
+Read Id : EC-D7-94-7A-54-43-EC-D7-94-7A
+NAND_TYPE: SAMSUNG
+PageNoPerBlk               :128
+PyldLen                    :2048
+TotalBlkNo                 :4096
+ecc_mode                      :0
+Start to read DRAM_Init code from flash...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 274)
+start to extract DRAM_Init code...
+call DRAM_Init()...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 258)
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+retrieve cfg
++ScanRam ver v3.0.0.0
+FAIL at type=0, detail scan
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+DRAM Type Scan Start
+
+00000040
+
+init DRAM done
+Enter the bypass mode!
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 256)
+RdImgGeneral: 2nd ReadFlashPage() failed
+Error in reading flash!
+NAND: invoking BOOT code failed
+Enter ISP mode
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+CMD_NAND_WRITE_MBR:0x0
+Start to read DRAM_Init code from flash...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 274)
+start to extract DRAM_Init code...
+call DRAM_Init()...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 258)
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+no cfg avail
++ScanRam ver v3.0.0.0
+FAIL at type=0, detail scan
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+DRAM Type Scan Start
+
+00000040
+
+init DRAM done
++++MMP RomCode ver 8050.0.2 2009/12/11
+pwrc_cfg=A0000006
+vic1_rawSts=00000000
+gpio 0=00200080
+iotraps=00000000
+version= 5A1202A5
+boot dev= 00000000
+dev sel :0
+Read Id : EC-D7-94-7A-54-43-EC-D7-94-7A
+NAND_TYPE: SAMSUNG
+PageNoPerBlk               :128
+PyldLen                    :2048
+TotalBlkNo                 :4096
+ecc_mode                      :0
+Start to read DRAM_Init code from flash...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 274)
+start to extract DRAM_Init code...
+call DRAM_Init()...
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 258)
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+retrieve cfg
++ScanRam ver v3.0.0.0
+FAIL at type=0, detail scan
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+WARN! no usable cfg
+DRAM Type Scan Start
+
+00000040
+
+init DRAM done
+Enter the bypass mode!
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+Enter Load_PF
+PageNoPerBlk               :128
+PageSize                   :8704
+PyldLen                    :8192
+TotalBlkNo                 :4096
+ecc_mode                      :1
+offset256
+g_pSysInfo->u8PagePerBlkShift7
+REDBOOT_FLG blk(2, 256)
+RdImgGeneral: 2nd ReadFlashPage() failed
+Error in reading flash!
+NAND: invoking BOOT code failed
+Enter ISP mode
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+id  =573CA182
+
